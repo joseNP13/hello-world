@@ -1,2 +1,2 @@
 # hello-world
-My first repository on GitHub for - Python Class 101
+My first repository on GitHub for - Python Class
